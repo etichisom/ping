@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "674744733484",
+    "firebase_url": "https://pink-3d5df.firebaseio.com",
+    "project_id": "pink-3d5df",
+    "storage_bucket": "pink-3d5df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674744733484:android:4dcf48e4f0a294a7312689",
+        "android_client_info": {
+          "package_name": "com.example.pink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674744733484-qt4daua6bvpj5vpvg11pf5d2nb4c1g4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pink",
+            "certificate_hash": "74855255ebbdb52ae6fd9d3a047c30bb7f90d123"
+          }
+        },
+        {
+          "client_id": "674744733484-cf2u7b53tq2k7aurne0cj5kc76h2i8uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuTh3_Bpj9I7NWQJzKKT-TKgwOih2sXEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674744733484-cf2u7b53tq2k7aurne0cj5kc76h2i8uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
